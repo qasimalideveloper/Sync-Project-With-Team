@@ -10,7 +10,7 @@ pip install -r requirements.txt
 python sync.py
 ```
 3. It will ask for your name for your team to know who updated the project
-<img width="499" height="623" alt="image" src="https://github.com/user-attachments/assets/3f5398b9-3686-4898-8d2d-90151f4d2773" /><br><br>
+<br><br><img width="499" height="623" alt="image" src="https://github.com/user-attachments/assets/3f5398b9-3686-4898-8d2d-90151f4d2773" /><br><br>
 4. By clicking on Download Latest, you can download the latest project files that any of your teammates updated
 5. By clicking on Upload, it will by defalut look for Frontend and Backend folders that you can setup by just clicking Download Latest and upload them to the server.
 
