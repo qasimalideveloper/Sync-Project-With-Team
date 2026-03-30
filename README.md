@@ -16,6 +16,6 @@ python sync.py
 
 # Server Setup
 By default, it will upload and download the files by the backend server hosted by me. If yo wish to make it work for yor personal server and yor personal team, i've given source code of server i've created. Just host it, give the link in the sync.py inside line number 20 and you are good to go
-<img width="493" height="626" alt="image" src="https://github.com/user-attachments/assets/02df2db6-5de1-4334-9034-ebf9a9fe1fdd" />
+<br><br><img width="493" height="626" alt="image" src="https://github.com/user-attachments/assets/02df2db6-5de1-4334-9034-ebf9a9fe1fdd" />
 
   
